@@ -1,0 +1,62 @@
+/*!
+ * Start Bootstrap - Full (https://startbootstrap.com/template-overviews/full)
+ * Copyright 2013-2017 Start Bootstrap
+ * Licensed under MIT (https://github.com/BlackrockDigital/startbootstrap-full/blob/master/LICENSE)
+ */
+
+
+
+
+
+.row1
+{
+	background-color:white;
+	margin-top: -10%;
+}
+body{
+	background-color: white;
+}
+
+
+.content
+{
+	background-color: white;
+	
+	
+	
+}
+.col-lg-6
+{
+	margin-left: 50%;
+	margin-top:-47%;
+	
+}
+
+.row2
+{
+	margin-top: 20%;
+	margin-right: 5%;
+	
+}
+.row3
+{
+	
+}
+
+
+.adminlogin
+{
+	margin-left: 30%;
+	margin-right: 30%;
+}
+
+.footer
+{
+	margin-top:10%;
+	
+}
+.user
+{
+	margin-top: 20%;
+}
+  
