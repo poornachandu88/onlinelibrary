@@ -10,7 +10,7 @@
   <properties>
   <javaee.api>8.0</javaee.api>
   <spring>4.3.9.RELEASE</spring>
-  <hibernate>5.2.10.Final</hibernate>
+  <hibernate>5.4.24.Final</hibernate>
 </properties>
  
   
